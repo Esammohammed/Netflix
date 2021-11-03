@@ -1,0 +1,24 @@
+body {
+	background-image: url("netflix.png"); /* The image used */
+  background-color: black; /* Used if the image is unavailable */
+ 
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+}
+#col {
+	margin-bottom: 30px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	position: relative;
+	color:#b3b3b3;
+	width : 320px;
+	
+	background: rgba(0, 0, 0, 0.8);
+	
+}
+.child {
+	
+	  width: 25%;
+	
+}

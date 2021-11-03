@@ -1,0 +1,21 @@
+body {
+	background-image: url("shadow.png"); /* The image used */
+  background-color: black; /* Used if the image is unavailable */
+ 
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+}
+#col {
+	
+	color:white;
+   position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);	
+}
+.child {
+	  text-decoration: none;
+	  width: 25%;
+	
+}

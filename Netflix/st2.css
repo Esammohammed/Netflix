@@ -1,0 +1,8 @@
+li::before {
+    content: "\1F5F8"; /* Unicode bullet symbol */
+     
+	color :#e50914;
+	/* Optional tweaks */
+    font-weight: bold;
+    padding-right: 10px;
+}

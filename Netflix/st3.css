@@ -1,0 +1,26 @@
+body {
+	background-image: url("girl.jpg"); /* The image used */
+  background-color: black; /* Used if the image is unavailable */
+ 
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+}
+#col {
+	margin-bottom: 30px;
+	padding-left : 30px;
+	padding-right : 30px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	position: relative;
+	color:black;
+	width : 380px;
+	
+	background:#ffffff;
+	
+}
+.child {
+	
+	  width: 25%;
+	
+}
